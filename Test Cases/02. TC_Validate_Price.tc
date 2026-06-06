@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02. TC_Validate_Price</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5e0b3ce-073b-4dfb-941f-c8f4c9f32696</testCaseGuid>
+</TestCaseEntity>

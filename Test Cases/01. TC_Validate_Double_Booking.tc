@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01. TC_Validate_Double_Booking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61a801f2-b48a-4900-8c7d-f156e41bf503</testCaseGuid>
+</TestCaseEntity>

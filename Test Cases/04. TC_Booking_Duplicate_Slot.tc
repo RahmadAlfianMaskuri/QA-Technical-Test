@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04. TC_Booking_Duplicate_Slot</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c23fa0d9-c886-458a-afdd-b44ddab7eb03</testCaseGuid>
+</TestCaseEntity>
