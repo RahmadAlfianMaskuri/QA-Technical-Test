@@ -25,7 +25,7 @@ public class BookingRepoDummy {
 
 	List<Booking> getAllBookings() {
 		return [
-			new Booking(1001, "BK/000001", 15, "2022-12-10", "09:00:00", "11:00:00", 1000000),
+			new Booking(1001, "BK/000001", 15, "2022-12-10", "09:00:00", "11:00:00", 1200000),
 			new Booking(1005, "BK/000005", 15, "2022-12-10", "09:00:00", "11:00:00", 1000000),
 		];
 	}
