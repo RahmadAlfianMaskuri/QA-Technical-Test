@@ -91,7 +91,3 @@ File report yang dihasilkan dapat berupa:
 * `report.html`
 * `report.csv`
 * `report.pdf`
-
-## Author
-
-Rahmad Alfian Maskuri
